@@ -105,7 +105,7 @@ DJNZ R1,LOOP1
 END
 
 ## OUTPUT(Descending order)
-<img width="993" height="752" alt="image" src="https://github.com/user-attachments/assets/a2dfebc3-f8b3-4c15-8f2a-0870baee41dd" />
+<img width="1028" height="722" alt="image" src="https://github.com/user-attachments/assets/5dd7057e-e6ac-4639-ad85-463f6513a7c9" />
 
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
